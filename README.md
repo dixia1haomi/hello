@@ -1,4 +1,4 @@
-# hello
+﻿# hello
 hello word!
 
-����һ��ƻ��!
+添加一个苹果!
